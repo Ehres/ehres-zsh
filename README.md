@@ -19,3 +19,7 @@ $HOME
     └── themes
         └── ehres-zsh.zsh-theme
 ```
+
+# Preview
+
+![Preview](./preview.png)
