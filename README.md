@@ -6,6 +6,13 @@
 
 https://github.com/robbyrussell/oh-my-zsh/wiki/Customization#using-another-customization-directory
 
+## With Antibody
+
+```
+robbyrussell/oh-my-zsh path:lib
+Ehres/ehres-zsh path:themes
+```
+
 ## With zplug
 
 ```
